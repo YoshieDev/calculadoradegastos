@@ -25,9 +25,6 @@ y exportar los datos a un archivo Excel.
 
 6. Haz clic en el botón "Exportar a Excel" para exportar los datos a un archivo Excel. Se generará un archivo Excel con el nombre basado en la fecha y hora actual.
 
-## Capturas de Pantalla
-
-01-09--2023_20-26-05.jpg
 
 ## Contribuciones
 
