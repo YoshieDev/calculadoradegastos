@@ -27,7 +27,7 @@ y exportar los datos a un archivo Excel.
 
 ## Capturas de Pantalla
 
-(Inserta capturas de pantalla de tu aplicación aquí si lo deseas)
+
 
 ## Contribuciones
 
